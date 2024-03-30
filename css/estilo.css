@@ -28,7 +28,7 @@ h2 {
 nav {
   font-weight: bold;
 }
-section {
+#conteudo-principal {
   line-height: 1.5;
   padding: 50px;
   background-color: #f0f0f0;
