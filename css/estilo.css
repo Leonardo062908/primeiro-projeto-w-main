@@ -12,9 +12,17 @@ html {
 }
 
 h1 {
-  color: red;
+  font-family: serif;
+  color: rgb(3, 233, 214);
   font-size: 5em;
   text-align: center;
+}
+
+h2 {
+  font-family: serif;
+  color: aqua;
+  font-size: 2em;
+  text-align: left;
 }
 
 .link {
