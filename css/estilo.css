@@ -9,6 +9,7 @@ html {
   background-position: center;
   background-size: cover;
   background-color: blue;
+  font-family: serif;
 }
 
 h1 {
@@ -26,6 +27,14 @@ h2 {
 }
 nav {
   font-weight: bold;
+}
+section {
+  line-height: 1.5;
+  padding: 50px;
+  background-color: #f0f0f0;
+  text-align: left;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .container {
