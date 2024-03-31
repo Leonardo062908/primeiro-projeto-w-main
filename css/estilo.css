@@ -34,10 +34,15 @@ form {
   color: gray;
   padding: 10px;
 }
+
+p {
+  color: rgba(21, 141, 21, 0.863);
+}
+
 #conteudo-principal {
   line-height: 1.5;
   padding: 50px;
-  background-color: #aaf6f8;
+  background-color: #c3f6f8;
   text-align: left;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
