@@ -44,6 +44,9 @@ button {
   color: white;
 }
 
+footer {
+  border-top: 2px solid red;
+}
 #conteudo-principal {
   line-height: 1.5;
   padding: 50px;
