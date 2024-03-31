@@ -39,6 +39,11 @@ p {
   color: rgba(21, 141, 21, 0.863);
 }
 
+button {
+  background-color: blue;
+  color: white;
+}
+
 #conteudo-principal {
   line-height: 1.5;
   padding: 50px;
