@@ -14,24 +14,30 @@ html {
 
 h1 {
   font-family: serif;
-  color: rgb(3, 233, 214);
+  color: gray(3, 233, 214);
   font-size: 5em;
   text-align: center;
 }
 
 h2 {
   font-family: serif;
-  color: aqua;
+  color: gray(0, 255, 255, 0.11);
   font-size: 2em;
   text-align: left;
 }
 nav {
   font-weight: bold;
 }
+
+form {
+  border: 1px;
+  color: gray;
+  padding: 10px;
+}
 #conteudo-principal {
   line-height: 1.5;
   padding: 50px;
-  background-color: #f0f0f0;
+  background-color: #aaf6f8;
   text-align: left;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -41,7 +47,7 @@ nav {
   margin: 20px;
   background-color: #f0f0f03b;
   color: #333;
-  border: 3px solid #ccc;
+  border: 3px solid #cccccc2f;
 }
 
 .link {
@@ -53,12 +59,12 @@ nav {
   transition: background-color 0.3s ease-in;
 
   &:hover {
-    background-color: rgb(0, 255, 170);
+    background-color: rgba(0, 255, 170, 0.692);
   }
 
   a {
     text-decoration: none;
-    color: rgb(0, 255, 191);
+    color: rgba(0, 255, 191, 0.486);
 
     img {
       display: inline-block;
